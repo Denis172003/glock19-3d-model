@@ -43,4 +43,4 @@ The repository contains the following pieces of the Glock 19:
 - Trigger Pin
 - Trigger Spring
 - Trigger with Trigger Bar
-- Glock-19 (Complete Assembly)
+- Glock-19 (Outside Casing)
