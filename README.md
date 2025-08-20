@@ -4,9 +4,9 @@
 ---
 
 ## 📖 Overview
-This repository contains a **detailed 3D CAD model, 2D schematics, renders, and documentation** of the Glock 19 pistol.  
-All parts were designed with **precise real-world dimensions** in AutoCAD.  
-A **Blender file of the outer casing** is also included.
+- This repository contains a **detailed 3D CAD model, 2D schematics, renders, and documentation** of the Glock 19 pistol.  
+- All parts were designed with **precise real-world dimensions** in AutoCAD.  
+- A **Blender file of the outer casing** is also included.
 
 ---
 
