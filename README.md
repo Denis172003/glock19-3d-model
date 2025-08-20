@@ -3,21 +3,32 @@
 
 ---
 
-This repository contains the detailed 3D model and 2D schematics of a Glock 19 pistol. The project includes all individual components of the Glock 19, meticulously designed in AutoCAD.
+This repository contains a **detailed 3D CAD model and 2D schematics** of the Glock 19 pistol, created in AutoCAD with precise real-world dimensions.  
+Additionally, a **Blender file of the outer casing** is included.
 
 ---
 
-## Project Contents
-### 3D Models
-The 3D models for each part of the Glock 19 are included. These models are provided in a format compatible with AutoCAD and other 3D modeling software. The parts are designed with precision to match the actual dimensions of a real Glock 19.
+## 📂 Repository Contents
 
-### 2D Schematics
-Accompanying the 3D models are 2D schematics. These schematics include measurements and are intended to provide a detailed reference for each component.
+- **DWG/**  
+  3D CAD models of all Glock 19 components (AutoCAD DWG format)
+
+- **2D_Schematics/**  
+  2D technical drawings with measurements for each component
+
+- **3D_Photos/**  
+  Rendered images and reference screenshots of the models
+
+- **Documentation.pdf**  
+  Detailed description of the project and schematics
+
+- **Glock19_Casing.blend** (optional, if included)  
+  Blender file with the outer casing for rendering
 
 ---
 
-## Included Components
-The repository contains the following pieces of the Glock 19:
+## 🔧 Included Components
+The CAD models cover **all main Glock 19 parts**, including:
 
 - Barrel
 - Cartridge
