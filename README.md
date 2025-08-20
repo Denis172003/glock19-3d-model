@@ -11,7 +11,7 @@
 ---
 
 ## 📂 Project Contents
-- **3D CAD Models** (`/DWG/`)  
+- **3D CAD Models** [DWG](./DWG)   
   - DWG files of all Glock 19 components (barrel, slide, trigger parts, etc.)  
 - **Blender** (`3D-model/Glock_19.blend`)  
   - Outer casing only (for rendering/preview)  
