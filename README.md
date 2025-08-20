@@ -25,33 +25,34 @@
 ---
 
 ## 🔧 Included Components
-The CAD models cover **all main Glock 19 parts**, including:
 
-- Barrel
-- Cartridge
-- Extractor Depressor Plunger
-- Extractor Depressor Plunger Spring
-- Firing Pin
-- Firing Pin Safety
-- Firing Pin Safety Spring
-- Firing Pin Spring
-- Follower
-- Frame
-- Locking Block
-- Locking Block Pin
-- Magazine Spring
-- Magazine Tube
-- Recoil Spring Guide Rod
-- Slide
-- Slide Cover Plate
-- Slide Lock
-- Slide Lock Spring
-- Slide Stop Lever
-- Spring Cups
-- Spring Loaded Bearing
-- Trigger Housing Pin
-- Trigger Mechanism Housing
-- Trigger Pin
-- Trigger Spring
-- Trigger with Trigger Bar
-- Glock-19 (Outside Casing)
+The CAD models cover all main Glock 19 parts, including:
+
+- [Barrel](./DWG/3D/Barrel_3D.dwg)
+- [Cartridge](./DWG/3D/Bullet_3D.dwg)
+- [Extractor Depressor Plunger](./DWG/3D/Extractor_Depressor_Plunger_3D.dwg)
+- [Extractor Depressor Plunger Spring](./DWG/3D/Extractor_Depressor_Plunger_Spring.dwg)
+- [Firing Pin](./DWG/3D/Friring_Pin_3D.dwg)
+- [Firing Pin Safety](./DWG/3D/Firing_Pin_Safety_3D.dwg)
+- [Firing Pin Safety Spring](./DWG/3D/Firing_Pin_Safety_Spring.dwg)
+- [Firing Pin Spring](./DWG/3D/Firing_Pin_Spring.dwg)
+- [Follower](./DWG/3D/Follower_3D.dwg)
+- [Frame](./DWG/3D/Glock_19.dwg)
+- [Locking Block](./DWG/3D/Locking_Block_3D.dwg)
+- [Locking Block Pin](./DWG/3D/Locking_Block_Pin_3D.dwg)
+- [Magazine Spring](./DWG/3D/Magazine_Spring.dwg)
+- [Magazine Tube](./DWG/3D/Magazine_Tube_3D.dwg)
+- [Recoil Spring Guide Rod](./DWG/3D/Recoil_Spring_Guide_Rod_3D.dwg)
+- [Slide](./DWG/3D/Slide_lock_3D.dwg) <!-- update if you have a dedicated Slide file -->
+- [Slide Cover Plate](./DWG/3D/Slide_Cover_Plate_3D.dwg)
+- [Slide Lock](./DWG/3D/Slide_lock_3D.dwg)
+- [Slide Lock Spring](./DWG/3D/Slide_Lock_Spring_3D.dwg)
+- [Slide Stop Lever](./DWG/3D/Slide_Stop_Level_3D.dwg)
+- [Spring Cups](./DWG/3D/Spring_Cups_3D.dwg)
+- [Spring Loaded Bearing](./DWG/3D/Spring_Loaded_Bearing_3D.dwg)
+- [Trigger Housing Pin](./DWG/3D/Trigger_Housing%20_Pin_3D.dwg)
+- [Trigger Mechanism Housing](./DWG/3D/Trigger_Mechanism_Housing_3D.dwg)
+- [Trigger Pin](./DWG/3D/Trigger_Pin_3D.dwg)
+- [Trigger Spring](./DWG/3D/Trigger_Spring.dwg)
+- [Trigger with Trigger Bar](./DWG/3D/Trigger_With_Trigger_Bar_3D.dwg)
+- [Glock-19 (Outside Casing)](./DWG/3D/Glock_19.dwg)
