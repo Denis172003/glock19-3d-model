@@ -1,5 +1,8 @@
 # **Glock 19 - 3D Model**
 <img width="1920" height="1080" alt="Glock19_3" src="https://github.com/user-attachments/assets/40b965cf-949c-4d5d-b1a0-d326010e7c53" />
+
+---
+
 This repository contains the detailed 3D model and 2D schematics of a Glock 19 pistol. The project includes all individual components of the Glock 19, meticulously designed in AutoCAD.
 
 ---
