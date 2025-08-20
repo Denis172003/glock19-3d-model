@@ -2,11 +2,14 @@
 <img width="1920" height="1080" alt="Glock19_3" src="https://github.com/user-attachments/assets/40b965cf-949c-4d5d-b1a0-d326010e7c53" />
 
 ---
+
 ## 📖 Overview
 This repository contains a **detailed 3D CAD model, 2D schematics, renders, and documentation** of the Glock 19 pistol.  
 All parts were designed with **precise real-world dimensions** in AutoCAD.  
 A **Blender file of the outer casing** is also included.
+
 ---
+
 ## 📂 Project Contents
 - **3D CAD Models** (`/DWG/`)  
   - DWG files of all Glock 19 components (barrel, slide, trigger parts, etc.)  
@@ -18,6 +21,7 @@ A **Blender file of the outer casing** is also included.
   - Rendered images and previews  
 - **Documentation.pdf**  
   - Reference document with additional details
+    
 ---
 
 ## 🔧 Included Components
